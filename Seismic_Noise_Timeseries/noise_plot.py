@@ -94,6 +94,8 @@ stations = [{'station': 'SJ07', 'network': 'PR', 'location': '--', 'channel': 'H
             {'station': 'SMRT', 'network': 'NA', 'location': '--', 'channel': 'BHN'},
             {'station': 'SMRT', 'network': 'NA', 'location': '--', 'channel': 'BHZ'}]
 
+stations = [{'station': 'AGPR', 'network': 'PR', 'location': '--', 'channel': 'HNZ'}]
+
 #
 # Change nothing below here!
 #
